@@ -1,0 +1,3 @@
+tensorflowjs_converter --input_format=keras dqn_ray_A_weights_hist.h5 dqn_ray_A_weights_hist_js
+tensorflowjs_converter --input_format=keras dqn_ray_B_weights_hist.h5 dqn_ray_B_weights_hist_js
+
